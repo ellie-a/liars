@@ -1,0 +1,51 @@
+h3 {
+  background-color: #FFCE99;
+  color: #CD7C4B;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7px;
+}
+
+.spencer {
+  width: 700px;
+  height: 700px;
+}
+
+.redText {
+  color: red;
+}
+
+p {
+  color: rgb(16, 62, 168);
+}
+.topPics {
+  text-align: center;
+  float: left;
+  margin-right: 50px;
+
+}
+
+.bottomPics {
+  text-align: center;
+  float: left;
+  margin-right: 50px;
+  background-repeat: no-repeat;
+}
+.profilePics img {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border: solid;
+  border-color: rgb(16, 62, 168);
+}
+
+.online {
+  width: 75px;
+  height: 15px;
+}
+#view {
+  float: right;
+  margin-right: 125px;
+  font-weight: bold;
+  font-size: 12px;
+}
